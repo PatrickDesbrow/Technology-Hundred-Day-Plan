@@ -2,7 +2,7 @@
 
 <hr>
 
-Here is my CIO/CTO on-boarding plan for your first 100 days in a new assignment. 
+Here is my CIO/CTO on-boarding plan for your first 100 days in a new assignment.  
 
 Technology is constantly evolving to meet the needs of both individuals and business consumers. The good news is there are typically patterns that appear as this cycle of change repeats. The key is to see the patterns and respond accordingly.  
 
@@ -12,9 +12,11 @@ Technology Leadership focuses on the people as individuals working together in t
 
 <hr>
 
+J. Patrick Desbrow Website: http://drdesbrow.com
+
 <a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/page-home.jpg" height="200" width="100%" alt="Banner"></a>
 
-J. Patrick Desbrow Site: http://drdesbrow.com
+
 
 
 
