@@ -1,5 +1,4 @@
 <a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/Logo.png" alt="Logo"></a> 
-
 <hr>
 
 Here is a CIO/CTO on-boarding plan for your first 100 days in a new assignment. I hope you find it as useful. 
@@ -15,3 +14,6 @@ Technology Leadership focuses on the people as individuals working together in t
 J. Patrick Desbrow Website: http://drdesbrow.com
 
 <a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/page-home.jpg" height="200" width="100%" alt="Banner"></a>
+
+Orginal Version Created: 1/25/2016
+Last Update: 1/11/2017
