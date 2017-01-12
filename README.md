@@ -2,7 +2,7 @@
 
 <hr>
 
-Here is a CIO/CTO on-boarding plan for your first 100 days in a new assignment. I hope you fnd it as useful. Please let me know...
+Here is a CIO/CTO on-boarding plan for your first 100 days in a new assignment. I hope you fnd it as useful. 
 
 Technology is constantly evolving to meet the needs of both individuals and business consumers. The good news is there are typically patterns that appear as this cycle of change repeats. The key is to see the patterns and respond accordingly.  
 
