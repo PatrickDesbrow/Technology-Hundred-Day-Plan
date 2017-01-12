@@ -1,4 +1,4 @@
-<a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/page-home.jpg" height="60" alt=""></a>
+<a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/page-home.jpg" alt="Banner"></a>
 
 <hr>
 
