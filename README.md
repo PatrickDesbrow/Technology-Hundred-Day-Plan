@@ -1,8 +1,7 @@
-<a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/Logo.png" alt="Logo"></a>
+<a href="http://www.drdesbrow.com" target="_blank"><img src="https://github.com/PatrickDesbrow/Technology-Hundred-Day-Plan/blob/master/Logo.png" alt="Logo"></a> 
 
 <hr>
 
-# Technology-Hundred-Day-Plan
 Here is my CIO/CTO on-boarding plan for your first 100 days in a new assignment. 
 
 Technology is constantly evolving to meet the needs of both individuals and business consumers. The good news is there are typically patterns that appear as this cycle of change repeats. The key is to see the patterns and respond accordingly.  
